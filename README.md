@@ -8,7 +8,7 @@
  Player(Spaceship) will be moving on a flying path where enemy ships will fly towards to the player and player needs to dodge and shoot.
  ----------------------------------------------------------------------------------------------------------------------------------------
  
- 24-08-2012
+ 24-08-2021
  
  Created a sample terrain and a sample scene.
  Imported various assets such as space ships and textures from the asset store.
