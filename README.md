@@ -15,6 +15,7 @@
  Created a sample terrain and a sample scene.
  
  Imported various assets such as space ships and textures from the asset store.
+ 
  Created the main timeline.
  
  I've played around with the new Unity input system, however decided to use the old one.
