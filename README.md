@@ -3,6 +3,7 @@
  ----------------------------------------------------------
  
  A rail shooter game, using Unity's timeline tool I aim to create scripted moments.
+ 
  World is created using the terrain tools in Unity.
  
  Player(Spaceship) will be moving on a flying path where enemy ships will fly towards to the player and player needs to dodge and shoot.
@@ -12,6 +13,7 @@
  24-08-2021
  
  Created a sample terrain and a sample scene.
+ 
  Imported various assets such as space ships and textures from the asset store.
  Created the main timeline.
  
@@ -24,6 +26,10 @@
  25-08-2021
  
  Added and tuned particle system for laser guns.
+ 
  Set up firing input for lasers.
+ 
  Added small details and headers for the inspector in Unity.
+ 
  Added colliders and made a small script for detecting collisions and triggers.
+ 
